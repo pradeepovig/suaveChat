@@ -1,8 +1,4 @@
-$(document).ready(function(){
-    $('.your-class').slick({
-      
-    });
-  });
+$(document).ready(function(){});
 
 
   // video play code
